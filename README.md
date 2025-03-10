@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about technology and coding. Here's
 
 ## 🔭 What I'm currently working on
 - [The Machine Learning Project Lifecycle](https://github.com/lauracarpaciu/Work) - A news-related application wants to classify news articles collected from several sources
-- [Project 2](https://github.com/lauracarpaciu/project2) - Description of project 2
+
 
 ## 🌱 What I'm currently learning
 - Learning technology, such as cloud architecture, systems design, and artificial intelligence.
