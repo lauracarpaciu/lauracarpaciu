@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about technology and coding. Here's a bit more about me:
 
 ## 🔭 What I'm currently working on
-- [The Machine Learning Project Lifecycle](https://github.com/lauracarpaciu/Work)) - The Machine Learning Project Lifecycle
+- [The Machine Learning Project Lifecycle](https://github.com/lauracarpaciu/Work) - The Machine Learning Project Lifecycle
 - [Project 2](https://github.com/lauracarpaciu/project2) - Description of project 2
 
 ## 🌱 What I'm currently learning
