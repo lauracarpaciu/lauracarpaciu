@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about technology and coding. Here's
 ## 🌱 What I'm currently learning
 - Learning technology X
 - Exploring technology Y
-- 
+
 ## 🛠  Tech Stack
 💻   Python Java  R (Statistics)
 
