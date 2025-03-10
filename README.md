@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I'm passionate about technology and coding. Here's
 - [Project 2](https://github.com/lauracarpaciu/project2) - Description of project 2
 
 ## 🌱 What I'm currently learning
-- Learning technology X
-- Exploring technology Y
+- Learning technology, such as cloud architecture, systems design, and artificial intelligence.
+- Exploring technology  such as artificial intelligence.
 
 ## 🛠  Tech Stack
 💻   Python Java  R (Statistics)
